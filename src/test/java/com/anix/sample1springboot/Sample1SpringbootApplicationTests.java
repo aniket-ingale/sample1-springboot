@@ -8,6 +8,8 @@ class Sample1SpringbootApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("-----------In Sample1SpringbootApplicationTests");
+
 	}
 
 }
